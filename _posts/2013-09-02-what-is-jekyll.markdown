@@ -2,11 +2,7 @@
 layout: post
 title: Definition of an Entrepreneur
 ---
-[Ted Turner](http://en.wikipedia.org/wiki/Ted_Turner) gives us the _real_ definition of an entrepreneur:
-
-> My son is now an "entrepreneur." That's what you're called when you don't have a job.
-
-。他对她说一起去看电影,她说好,他又对她说:明天我的女朋友也一起来.她觉得心有点隐隐作痛,但还是笑着说好.第二天,她只见到他自己一个人前来,于是便问:你女朋友呢?他温柔的摸摸她的头,笑着对她说:就在我面前啊！
+A。他对她说一起去看电影,她说好,他又对她说:明天我的女朋友也一起来.她觉得心有点隐隐作痛,但还是笑着说好.第二天,她只见到他自己一个人前来,于是便问:你女朋友呢?他温柔的摸摸她的头,笑着对她说:就在我面前啊！
 
 　　B。一个小男孩对小女孩说：“我是你的BF。”女孩问：“什么是BF？”男孩说是BestFriend(最好的朋友)的意思。再后来他们结婚生子到了风烛残年的年纪，老公公对老婆婆说：“我是你的BF。”老婆婆问：“什么是BF？”老公公微笑回答“BeForever！(要永远这样啊！)”
 
