@@ -241,6 +241,13 @@ strong {
 #post article {
   font-size:16px;
   background-color: #ffffff;
+
+}
+
+#post article p{
+  font-size:16px;
+  background-color: #ffffff;
+  text-indent:2em;
 }
 
 #post article .content {
