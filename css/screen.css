@@ -93,13 +93,48 @@ strong {
   border-color: #333;
 }
 
-#welcome h1 {
-  margin: 50px auto 20px;
-  text-align: center;
-  font-size: 450%;
-  text-shadow: 3px 3px 0 #2E545A;
-  color: #f5f5f5;
+
+#welcome header h1#logo {
+    display: block;
+    font-size: 1.2em;
+    height: 1.5em;
+    padding: 0.3em 1em;
+    background: none repeat scroll 0% 0% rgb(204, 51, 51);
+	background-color: rgb(204, 51, 51);
+	background-image: none;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: 0% 0%;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-size: auto auto;
+    box-shadow: 2px 1px 10px rgb(153, 153, 153);
+    float: left;
+    margin: 2em 0px;
+    vertical-align: middle;
 }
+
+#post header h1#logo {
+	border:
+    display: block;
+    font-size: 1.2em;
+    height: 1.5em;
+    padding: 0.3em 1em;
+    background: none repeat scroll 0% 0% rgb(204, 51, 51);
+	background-color: rgb(204, 51, 51);
+	background-image: none;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: 0% 0%;
+	background-clip: border-box;
+	background-origin: padding-box;
+	background-size: auto auto;
+    box-shadow: 2px 1px 10px rgb(153, 153, 153);
+    float: left;
+    margin: 2em 0px;
+    vertical-align: middle;
+}
+
 
 #welcome h2 {
   margin: 50px auto 20px;
@@ -192,7 +227,7 @@ strong {
 /* ======== */
 
 #post {
-  background-color: #E3B561;
+  background-color: #ffffff;
 }
 
 #post .content {
@@ -204,6 +239,7 @@ strong {
 }
 
 #post article {
+  font-size:16px;
   background-color: #ffffff;
 }
 
@@ -216,7 +252,7 @@ strong {
 
 #post header {
 	text-align: center;
-	padding: 20px 50px 10px;
+	padding: 0px 50px 0px 0px;
 }
 
 #post header p {
@@ -264,15 +300,16 @@ strong {
 }
 
 #post aside {
-  border-top: 1px solid #281F0D;
-  background-color: #281F0D;
+  border-top: 0px solid #281F0D;
+  background-color: #FFFFFF;
   color: #CBC7BB;
+  padding: 80px 0px 0px;
 }
 
 #post aside .content {
-  background-color: #3B3127;
+  background-color: #000000;
   padding: 50px;
-  width: 850px; 
+  width: 700px; 
 }
 
 #post aside a {
@@ -305,13 +342,13 @@ strong {
 }
 
 #post footer {
-  border-top: 1px solid #AF8C4B;
-  background-color: #E3B561;
+  border-top: 0px solid #AF8C4B;
+  background-color: #ffffff;
   color: #65360D;
 }
 
 #post footer .content {
-  background-color: #F2E2B9;
+  background-color: #ffffff;
   text-align: center;
 }
 
