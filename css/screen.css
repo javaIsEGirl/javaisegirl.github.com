@@ -314,7 +314,7 @@ strong {
 }
 
 #post aside .content {
-  background-color: #000000;
+  background-color: rgb(140,0,0);
   padding: 50px;
   width: 700px; 
 }
@@ -357,7 +357,7 @@ strong {
 #post footer .content {
   width:100%;
   padding:1px;
-  background-color: #000000;
+  background-color: rgb(140,0,0);
   text-align: center;
   margin: 40px auto 0px;
 }
