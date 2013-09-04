@@ -118,6 +118,24 @@ Pushing branches willy-nilly to production could be trouble. This task, which is
   end
 {% endhighlight %}
 
+{% highlight java linenos %}
+	class Person{
+		private String name;
+		private int age;
+		public void setName(String name){
+			this.name=name;
+		}
+		public String getName(){
+			return this.name;	
+		}
+		public void setAge(String age){
+			this.age=age;
+		}
+		public String getAge(){
+			return this.age;	
+		}
+	}
+{% endhighlight %}
 ## Conclusion
 
 This simple task maintains Heroku's simplicity while adding some of capistrano's extensibility and has served me well on projects both large and small. I'm excited to see what you can do with it -- so grab the [full gist](http://gist.github.com/463024) and fork away!

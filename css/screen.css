@@ -272,9 +272,9 @@ strong {
 
 #post div.highlight {
   overflow: auto;
-  background-color: #F4F9EC;
+  background-color: #272822;
   line-height: 1.2em;
-  margin: 20px 0;
+  margin: 20px 75px;
   border: 1px dashed #9CAE64;
 }
 
