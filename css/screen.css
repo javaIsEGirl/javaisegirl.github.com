@@ -23,6 +23,10 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   font-family: inherit;
 }
 
+img{
+  max-width:85%;
+}
+
 header, section, footer, aside, nav, article, figure { 
   display: block;
 }
@@ -58,14 +62,14 @@ ul, ol {
 
 a, 
 a:visited {
-  color: #333;
+  color: #FF0000;
   text-decoration: none;
-  border-bottom: 1px dotted #333;
+  border-bottom: 1px dotted #f00;
 }
 
 a:hover {
   text-decoration: none;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #f00;
 }
 
 em {

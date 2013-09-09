@@ -26,7 +26,7 @@
    	<br/>
 	<br/>
     <header>
-       <h1 id="logo"><a href="http://www.noifs.tk" style="color:#000">如果,没有如果</a></h1>
+       <h1 id="logo"><a href="http://www.noifs.tk">如果,没有如果</a></h1>
     </header>
     {{ content }}
   </body>
