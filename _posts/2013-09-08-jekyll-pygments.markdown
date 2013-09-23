@@ -24,7 +24,7 @@ $ sudo pacman -S python2-pygments
 
 ###	B.选择我们自己喜欢的代码高亮风格
 
-####   1.![view_highlight_code ](http://image15-c.poco.cn/mypoco/myphoto/20130909/21/17406896920130909211221042.png)
+####   1.![view_highlight_code ](http://pa.poco.cn/?174068969&http://my.poco.cn/album/album_show_details.php?user_id=174068969&item_id=186566447)
 ####   2.![select_style](http://image15-c.poco.cn/mypoco/myphoto/20130909/21/17406896920130909211154085.png)
 ####   3.
 
