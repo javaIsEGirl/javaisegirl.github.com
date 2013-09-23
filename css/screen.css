@@ -23,9 +23,6 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   font-family: inherit;
 }
 
-img{
-  max-width:85%;
-}
 
 header, section, footer, aside, nav, article, figure { 
   display: block;
