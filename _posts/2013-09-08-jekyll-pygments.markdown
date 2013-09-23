@@ -9,7 +9,7 @@ title: Ubuntu下Jekyll搭建博客时的代码高亮
 
 
 
-![pygments_logo](images/pygments_logo.png)
+![pygments_logo](http://image15-c.poco.cn/mypoco/myphoto/20130923/13/17406896920130923132102011.jpg)
 
 ##使用Pygments
 
