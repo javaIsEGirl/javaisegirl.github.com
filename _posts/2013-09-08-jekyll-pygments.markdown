@@ -9,9 +9,7 @@ title: Ubuntu下Jekyll搭建博客时的代码高亮
 
 
 
-![pygments_logo](http://image15-c.poco.cn/mypoco/myphoto/20130923/13/17406896920130923132102011.jpg)
-
-![pygments_logo](http://farm8.staticflickr.com/7447/9896266795_c0f1ede066_m.jpg)
+![pygments_logo](http://d3.freep.cn/170_3tb_130924174407k30h516640.png)
 
 ##使用Pygments
 
@@ -26,8 +24,8 @@ $ sudo pacman -S python2-pygments
 
 ###	B.选择我们自己喜欢的代码高亮风格
 
-####   1.![view_highlight_code ](images/pygments_logo.png)
-####   2.![select_style](http://image15-c.poco.cn/mypoco/myphoto/20130909/21/17406896920130909211154085.png)
+####   1.![view_highlight_code ](http://d3.freep.cn/170_3tb_130924174408m512516640.png)
+####   2.![select_style](http://d3.freep.cn/170_3tb_1309241744095jjv516640.png)
 ####   3.
 
 
