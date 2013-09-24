@@ -47,6 +47,7 @@ h2 {
 h3 {
   font-family: 'Vollkorn', Georgia, Cambria, "Times New Roman", Times, serif;
   font-size: 125%;
+  color: red; 
 }
 
 p, ul, ol, dl, pre, blockquote, table, form {
@@ -236,7 +237,6 @@ strong {
 	width: 850px;
 	margin: 0 auto;
 	-moz-box-shadow: 0 0 7px rgba(0, 0, 0, 0.5);
-	-webkit-box-shadow: 0 0 7px rgba(0, 0, 0, 0.5);
 	padding: 50px;
 }
 
@@ -299,7 +299,7 @@ strong {
 }
 
 #post h1 {
-  font-size: 250%;
+  font-size: 150%;
   text-align:right;
 }
 

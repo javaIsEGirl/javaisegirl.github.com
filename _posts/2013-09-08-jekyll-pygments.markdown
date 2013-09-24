@@ -6,7 +6,7 @@ title: Ubuntu下Jekyll搭建博客时的代码高亮
 对于经常需要通过帖代码来说明问题的不帖代码会死星人来说，代码高亮是不可缺少的。
 什么是代码高亮？为什么要使用代码高亮？代码高亮的方法有哪些？
 
-###方法一:使用Pygments
+###使用Pygments
 ![pygments_logo](http://d3.freep.cn/170_3tb_130924174407k30h516640.png)
 
 此次我们关注的是通过pygments来实现博客中的代码高亮,具体步骤如下:
@@ -58,5 +58,5 @@ pygments: true
 ####注意事项
 
 
-###方法二:使用Javascript
+###使用Javascript
 
