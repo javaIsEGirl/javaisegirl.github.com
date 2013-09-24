@@ -259,6 +259,11 @@ strong {
 	width: 950px;
 }
 
+#post img{
+	width: 600px;
+	
+}
+
 #post header {
 	text-align: center;
 	padding: 0px 50px 0px 0px;
