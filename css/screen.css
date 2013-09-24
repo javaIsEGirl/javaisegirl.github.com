@@ -259,9 +259,9 @@ strong {
 	width: 950px;
 }
 
-#post img{
-	width: 600px;
-	
+#post img {
+    width: 700px;
+    margin: 20px 40px;
 }
 
 #post header {
