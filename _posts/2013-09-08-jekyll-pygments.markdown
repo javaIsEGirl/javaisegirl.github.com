@@ -19,11 +19,13 @@ $ sudo pacman -S python2-pygments
 
 #####2.选择我们自己喜欢的代码高亮风格
 
-######  a.写一段代码，为的是选择我们所喜欢的代码高亮风格:
+a.写一段代码，为的是选择我们所喜欢的代码高亮风格:
 
 
 ![view_highlight_code ](http://d3.freep.cn/170_3tb_130924174408m512516640.png)
-######  b.选择自己所喜欢的代码高亮风格，我选择的是monkai.css:
+
+
+b.选择自己所喜欢的代码高亮风格，我选择的是monkai.css:
 
 
 ![select_style](http://d3.freep.cn/170_3tb_1309241744095jjv516640.png)
@@ -48,7 +50,10 @@ pygments: true
 
 #### 6.参数的设置
 
-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
 #### 7.开始使用
@@ -60,3 +65,5 @@ pygments: true
 
 ###使用Javascript
 
+
+--- ---  the END  --- ---
