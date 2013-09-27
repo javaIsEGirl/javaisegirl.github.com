@@ -47,5 +47,8 @@ body_id: post
    <div id="copyright">Proudly powered by <a href="http://jekyll.com/" title="Jjekyll Offical Homepage">Jekyll</a> ! 
    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cdiv id='cnzz_stat_icon_1000052036'%3E%3C/div%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000052036%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
 	</div>
+   <div id="copyright">Proudly powered by <a href="http://jekyll.com/" title="Jjekyll Offical Homepage">Jekyll</a> ! 
+   <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cdiv id=''%3E%3C/div%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000052036%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+	</div>
   </div>
 </footer>

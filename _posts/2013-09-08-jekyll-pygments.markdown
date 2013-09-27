@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu下Jekyll搭建博客时的代码高亮 
+title: Ubuntu下Jekyll搭建博客时的「代码高亮」
 ---
 
 对于经常需要通过帖代码来说明问题的不帖代码会死星人来说，代码高亮是不可缺少的。

@@ -243,7 +243,7 @@ strong {
 #post article {
   font-size:16px;
   background-color: #ffffff;
-  margin: 140px auto 40px;
+  margin: 140px auto 10px;
 }
 
 #post article p{
@@ -317,13 +317,13 @@ strong {
   border-top: 0px solid #281F0D;
   background-color: #FFFFFF;
   color: #CBC7BB;
-  padding: 80px 0px 80px;
+  padding: 20px 0px;
 }
 
 #post aside .content {
   background-color: rgb(100,100,100);
   padding: 50px;
-  width: 700px; 
+  width: 660px; 
 }
 
 #post aside a {
@@ -363,9 +363,29 @@ strong {
 
 #post footer .content {
   width:100%;
-  padding:1px;
+  padding:0px;
   background-color: rgb(255,255,255);
   text-align: center;
   margin: 0px auto;
 }
 
+#post article #navigation {
+  display: block;
+  width: 55%;
+  text-align: right;
+  margin: 0px auto;
+}
+hr {
+  margin: 0.7em auto;
+  border-top: 1px dashed rgb(208, 208, 208);
+  border-bottom: 1px dashed rgb(249, 249, 249);
+  width:55%;
+}
+#post footer .content #copyright{
+	background-color:#000;
+	color:#ffffff;
+	width:55%;
+	margin:0px auto;
+	padding:8px 5% 16px;
+	text-align:right;
+}
